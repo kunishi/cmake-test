@@ -1,0 +1,11 @@
+### https://raw.github.com/github/gitignore/4077c79bfb552a6e3ed92cd510873f4e796ab661/CMake.gitignore
+
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Makefile
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+
+
